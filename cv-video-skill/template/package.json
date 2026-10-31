@@ -1,0 +1,11 @@
+{
+  "name": "cv-video-template",
+  "private": true,
+  "description": "Animated CV video template rendered from HTML",
+  "dependencies": {
+    "@fontsource/geist-mono": "^5.0.0",
+    "@fontsource/geist-sans": "^5.0.0",
+    "gsap": "3.12.5",
+    "playwright": "^1.45.0"
+  }
+}
